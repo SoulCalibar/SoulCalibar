@@ -18,7 +18,7 @@ Project: Paragon is an in-development ARG-based multi-genre game.
     The Architecture: The genre dynamically switches based on shifting point-of-view mechanics across multiple characters.  
     The ARG Integration: Implements real-world encryption and decryption puzzles, out-of-game interactions, and community-driven solving processes.
 
-𑄝੭ &nbsp;I'm currently working on **revitalzing and publishing all my previous projects!**  
+𑄝੭ &nbsp;I'm currently working on **revitalzing and publishing all my previous projects! Alongside my lifelong goal of building a project in all single-letter languages**  
 .✦ ݁˖ &nbsp;I'm looking to collaborate on **anything open source**  
 💬 &nbsp;Ask me about **philosophy and ethics regarding AI :]**
 
